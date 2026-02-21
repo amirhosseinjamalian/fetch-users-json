@@ -2,6 +2,10 @@
 
 A simple and clean web application built with **Vanilla JavaScript** that fetches user data from a local JSON file using the **Fetch API** and renders it dynamically on the page.
 
+▶️ Live Demo
+🔗 **Demo Online:** 
+[🔗Click here to view the live demo](https://amirhosseinjamalian.github.io/fetch-users-json/)
+
 ---
 
 ## 📌 Overview
