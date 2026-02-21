@@ -73,3 +73,25 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/amirhosseinjamalian/fetch-users-json.git
+
+```
+
+🎯 Future Improvements
+
+Replace local JSON with real API
+
+Add search functionality
+
+Add pagination
+
+Convert to async/await syntax
+
+Add skeleton loading animation
+
+📄 License
+
+Free to use for learning purposes.
+
+👨‍💻 Author
+
+Developed with ❤️ using Vanilla JavaScript.
